@@ -1,6 +1,6 @@
 # Disalg
 
-Distributed algorithms and systems Group
+Distributed algorithm design and implementation Group
 
 Institute of Computer Software, Nanjing University
 
