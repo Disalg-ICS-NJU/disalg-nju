@@ -1,6 +1,6 @@
 <img src="pic/disalg-logo-2018-12.png" width = "10%" alt="Disalg Logo" align=right />
 
-# Disalg  
+# Distributed algorithm design and implementation group 
 
 
 
