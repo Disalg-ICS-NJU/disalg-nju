@@ -1,8 +1,7 @@
-insert pic
+insert pic ![disalg logo](./disalg-logo-2018-12.png)
 
-![disalg logo](./disalg-logo.png)
+Disalg <img src="./disalg-logo-2018-12.png" width = "10%" alt="Disalg Logo" align=left />
 
-link pic
 
-[pic](https://github.com/Disalg-ICS-NJU/disalg-nju/blob/master/pic/disalg-logo.png)
 
+![Disalg logo](https://github.com/Disalg-ICS-NJU/disalg-nju/blob/master/pic/disalg-logo.png) {:height="120px" width="100px"}
