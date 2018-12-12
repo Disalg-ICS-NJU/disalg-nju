@@ -1,8 +1,10 @@
-# Disalg
+<img src="pic/disalg-logo-2018-12.png" width = "10%" alt="Disalg Logo" align=right />
 
-Distributed algorithm design and implementation Group
+# Distributed algorithm design and implementation
 
-Institute of Computer Software, Nanjing University
+
+
+Disalg group, Institute of Computer Software, Nanjing University
 
 ## Disalg Projects
 
