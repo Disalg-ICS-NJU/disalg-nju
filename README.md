@@ -1,4 +1,4 @@
-<img src="pic/disalg-logo-2018-12.png" width = "10%" alt="Disalg Logo" align=right />
+<img src="pic/disalg-logo-2018-12.png" width = "10%" alt="Disalg Logo" align=left />
 
 # Disalg  
 
