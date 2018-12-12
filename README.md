@@ -4,6 +4,13 @@ Distributed algorithm design and implementation Group
 
 Institute of Computer Software, Nanjing University
 
+## Disalg Projects
+
+* [Paxos Refinement](https://github.com/Starydark/Paxos-Refinement) 
+* [CRPQ (Conflict-free Replicated Priority Queue) based on Redis](https://github.com/elem-azar-unis/CRPQ-Redis)
+* [Consistency-Latency Tradeoff of Quorum Replication](https://github.com/Lingzhi-Ouyang/Consistency-Latency-Tradeoff)
+* [Prototype Collaborative Editor based on the Jupiter Protocol](https://github.com/tangruize/coeditor)
+
 ## Links
 
 * People
